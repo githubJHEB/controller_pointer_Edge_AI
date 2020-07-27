@@ -1,0 +1,9 @@
+numpy==1.19.0
+Pillow==7.2.0
+requests==2.24.0
+virtualenv==16.7.9
+pyobjc-core 6.2.2
+pyobjc 6.2.2
+PyAutoGUI 0.9.50
+virtualenvwrapper  4.8.4
+virtualenv 20.0.25
